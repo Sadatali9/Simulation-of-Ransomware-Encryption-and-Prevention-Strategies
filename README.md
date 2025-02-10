@@ -1,0 +1,1 @@
+# Simulation-of-Ransomware-Encryption-and-Prevention-Strategies
