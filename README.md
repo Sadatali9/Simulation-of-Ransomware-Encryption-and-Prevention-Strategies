@@ -5,7 +5,7 @@
 This project simulates a **ransomware encryption** system, designed to demonstrate how ransomware operates and to explore effective prevention strategies. The system uses advanced cryptographic techniques, including **Diffie-Hellman key exchange**, **ChaCha20 encryption**, and **AES encryption**, to simulate the encryption of files and folders on a victim's machine. The project also includes a **Graphical User Interface (GUI)** for both the attacker (controller) and the victim, allowing for a realistic simulation of ransomware behavior.
 
 The primary goal of this project is to provide a platform for understanding ransomware attacks, testing prevention mechanisms, and developing strategies to mitigate such threats.
-
+Here is code https://github.com/Sadatali9/Simulation-of-Ransomware-Encryption-and-Prevention-Strategies/releases/tag/v1.0.0
 ---
 
 ## Features
